@@ -1,6 +1,5 @@
 //package com.gmail.murmeldjur.binarytree;
 
-//import com.sun.org.apache.xpath.internal.SourceTree;
 
 public class BinaryTree {
 
